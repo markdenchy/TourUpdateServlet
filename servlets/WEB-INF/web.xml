@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2
+        <web-app> <servlet>
+        <servlet-name>TourUpdateServlet</servlet-name>
+        <servlet-class>tourupdates.tourupdateservlet</servlet-class> </servlet>
+        <servlet-mapping> <servlet-name>TourUpdateServlet</servlet-name> <url-pattern>/tourupdateservlet</url-pattern>
+        </servlet-mapping> </web-app>
